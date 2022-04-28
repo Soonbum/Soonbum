@@ -108,13 +108,13 @@ ___
 
     - GDL 라이브러리 개발: 골조공사의 가설재
 
-    - 애드온 개발: [깃허브 링크 참조](https://github.com/Soonbum/MaxBIM)
+    - 애드온 개발: [MaxBIM](https://github.com/Soonbum/MaxBIM)
 
     - 적용기술: ArchiCAD의 고유 언어 Geometric Description Language (GDL) 라이브러리 개발, C++을 이용한 ArchiCAD Add-on 개발
 
 ___
 
-### Participated projects
+### Shared materials
 
   * 아키캐드 GDL학습자료 [초급](https://drive.google.com/open?id=1Gt-ZNxHzsaDlh45Clbum44JhtAIMlKv0Ing154YGX-w) [중급](https://drive.google.com/open?id=1f3sJek15yD1LdL3tJuSOjqdMUzGLUS0Z5YfUPNWFlrM) [고급](https://drive.google.com/open?id=1xE-kZYkGjdaheNAycspdevfFtwluaRH5L3xeanKe8IQ)
 
