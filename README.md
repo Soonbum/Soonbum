@@ -84,7 +84,7 @@ ___
 
   * (주)두올테크
 
-    - GDL 라이브러리 개발: LH신사옥 건설, 포스코건설 브라질 CSP 원정수처리설비, 포스코A&C 라이브러리 지원, 한샘가구 GDL 강의, 일본 KAJIMA건설 병원시설
+    - 아키캐드 GDL 라이브러리 개발: LH신사옥 건설, 포스코건설 브라질 CSP 원정수처리설비, 포스코A&C 라이브러리 지원, 한샘가구 GDL 강의, 일본 KAJIMA건설 병원시설
 
     - 저술: GDL 레퍼런스 가이드 번역, GDL 강의자료 작성
 
@@ -106,9 +106,9 @@ ___
 
     - 발주업체: (주)소노인터내셔널, CJ대한통운
 
-    - GDL 라이브러리 개발: 골조공사의 가설재
+    - 아키캐드 GDL 라이브러리 개발: 골조공사의 가설재
 
-    - 애드온 개발: [MaxBIM](https://github.com/Soonbum/MaxBIM)
+    - 아키캐드 애드온 개발: [MaxBIM](https://github.com/Soonbum/MaxBIM)
 
     - 적용기술: ArchiCAD의 고유 언어 Geometric Description Language (GDL) 라이브러리 개발, C++을 이용한 ArchiCAD Add-on 개발
 
