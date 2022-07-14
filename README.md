@@ -54,7 +54,7 @@ ___
 
 #### 2010-2011
 
-![image](https://user-images.githubusercontent.com/16474083/178888610-68e4a2ad-585f-4a6f-be1e-230d2416f30b.png)
+  ![image](https://user-images.githubusercontent.com/16474083/178888610-68e4a2ad-585f-4a6f-be1e-230d2416f30b.png)
 
   * (Thesis) Vision-based Intelligent Fire Detection System Using Wavelet Transform and Color
 
@@ -127,6 +127,17 @@ ___
   * [아키캐드 애드온 개발문서 번역](http://peacemaker84.dothome.co.kr/)
 
   * [아키캐드 애드온 개발가이드](https://docs.google.com/document/d/1QkGUc4PjSOUt_8CU0CLBy9zOgTXiSHmsM8XoMb80Smk/edit?usp=sharing)
+
+___
+
+### Making
+
+  * (주)두올테크
+    ![GDL 라이브러리 (두올테크)](https://user-images.githubusercontent.com/16474083/178893025-fe485d93-f3b3-4689-992e-7114c23eb360.png)
+
+  * 경동이엔씨(주)
+
+  * (주)스마트맥스
 
 
 <!--
