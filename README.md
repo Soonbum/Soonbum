@@ -146,6 +146,13 @@ ___
 
 
   * (주)스마트맥스
+    ![GDL 라이브러리 (스마트맥스)](https://user-images.githubusercontent.com/16474083/178897241-ac483cea-bb4c-4e27-9204-6ee7e47b3829.png)
+    ![벽 테이블폼](https://user-images.githubusercontent.com/16474083/178897893-7ff28b05-df97-482d-854f-327da5f6dc6c.png)
+    ![슬래브 테이블폼](https://user-images.githubusercontent.com/16474083/178897761-88a57d09-d72c-4b96-b89f-d8d9446dc5ea.png)
+    ![기둥 테이블폼](https://user-images.githubusercontent.com/16474083/178898253-24d31651-c6a9-4e05-b489-490075c55fb2.png)
+    ![보 테이블폼 1](https://user-images.githubusercontent.com/16474083/178897998-dc73693f-e14e-418c-b9a3-bf95d1b9cc81.png)
+    ![보 테이블폼 2](https://user-images.githubusercontent.com/16474083/178898037-152b0c80-67c4-46b1-8727-c11449e22e3b.png)
+
   | 대메뉴 | 소메뉴 |
   | -- | -- |
   | 테이블폼 배치  | 벽에 테이블폼 배치 (3D) |
@@ -175,13 +182,6 @@ ___
   | 편의 기능 | 3D 품질/속도 조정하기 |
   |           | 영역에 3D 라벨 붙이기 |
   |           | 현재 평면도의 테이블폼에 버블 자동 배치 | 
-
-    ![GDL 라이브러리 (스마트맥스)](https://user-images.githubusercontent.com/16474083/178897241-ac483cea-bb4c-4e27-9204-6ee7e47b3829.png)
-    ![벽 테이블폼](https://user-images.githubusercontent.com/16474083/178897893-7ff28b05-df97-482d-854f-327da5f6dc6c.png)
-    ![슬래브 테이블폼](https://user-images.githubusercontent.com/16474083/178897761-88a57d09-d72c-4b96-b89f-d8d9446dc5ea.png)
-    ![기둥 테이블폼](https://user-images.githubusercontent.com/16474083/178898253-24d31651-c6a9-4e05-b489-490075c55fb2.png)
-    ![보 테이블폼 1](https://user-images.githubusercontent.com/16474083/178897998-dc73693f-e14e-418c-b9a3-bf95d1b9cc81.png)
-    ![보 테이블폼 2](https://user-images.githubusercontent.com/16474083/178898037-152b0c80-67c4-46b1-8727-c11449e22e3b.png)
 
 
 <!--
