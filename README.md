@@ -55,6 +55,8 @@ ___
 #### 2010-2011
 
   * (Thesis) Vision-based Intelligent Fire Detection System Using Wavelet Transform and Color
+![image](https://user-images.githubusercontent.com/16474083/178887976-40725e3f-2838-4aae-81bc-402a085f4b14.png)
+![image](https://user-images.githubusercontent.com/16474083/178888025-0c6c2eb1-e584-4b36-ba2b-4f2fcb1e2ab7.png)
 
     - 배경 분리, 색 분류, 웨이블릿, 변환, 패턴 인식을 통해 영상 내 연기를 인식함
 
