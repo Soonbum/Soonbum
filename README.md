@@ -138,6 +138,7 @@ ___
   * 경동이엔씨(주)
 
   * (주)스마트맥스
+    ![GDL 라이브러리 (스마트맥스)](https://user-images.githubusercontent.com/16474083/178897241-ac483cea-bb4c-4e27-9204-6ee7e47b3829.png)
 
 
 <!--
