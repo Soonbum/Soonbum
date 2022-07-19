@@ -42,7 +42,7 @@ ___
 
 ### Writings
 
-#### 2007-2009
+#### 2008-2009
 
   ![mosa6eq5xS](https://user-images.githubusercontent.com/16474083/165700051-5395032e-3b1e-4ab1-be28-b2e77ff9738d.jpeg)
 
