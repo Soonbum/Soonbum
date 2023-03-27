@@ -2,7 +2,7 @@
 
 ### Bio
 
-  ![profile](https://user-images.githubusercontent.com/16474083/165702159-4b4ac09c-582a-4b9f-b961-e76de51c8bd3.jpg)
+  ![profile](https://user-images.githubusercontent.com/16474083/227817209-23c73cb2-08f9-45a5-9d6e-a0f681c256ae.png)
   
   * Name: Soonbum Jeong (정순범)
 
