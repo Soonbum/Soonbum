@@ -142,6 +142,22 @@ ___
    
     - [실적 리스트는 다음 링크를 보십시오.](https://docs.google.com/spreadsheets/d/1zPDd1fxaD2lw2fmbUhE90ki6Pt6SR1qpuOkhwD7jYc0/edit#gid=0)
 
+  * (주)하이콘소프트
+
+    - 참여 프로젝트
+   
+      * 현대자동차 차세대 클러스터 개발 (2023.07 ~ ...): LG전자 파트너로 참여, HMI 파트 Function Owner 역할
+     
+    - 사이드 프로젝트
+   
+      * [JIRA 자동화 도구 개발](https://github.com/Soonbum/JIRA_automation_tool)
+     
+      * [PDF 병합 도구 개발](https://github.com/Soonbum/SimplePDFMerger)
+     
+      * [QML(Qt Modeling Language) 레퍼런스 번역](https://github.com/Soonbum/QML)
+     
+      * [Qt for Python 레퍼런스 번역](https://github.com/Soonbum/Qt_for_Python)
+
 ___
 
 ### Side projects
@@ -187,7 +203,7 @@ ___
 
   * (주)스마트맥스
     ![GDL 라이브러리 (스마트맥스)](https://user-images.githubusercontent.com/16474083/178897241-ac483cea-bb4c-4e27-9204-6ee7e47b3829.png)
-    
+        
     ![벽 테이블폼](https://user-images.githubusercontent.com/16474083/178897893-7ff28b05-df97-482d-854f-327da5f6dc6c.png)
     
     ![슬래브 테이블폼](https://user-images.githubusercontent.com/16474083/178897761-88a57d09-d72c-4b96-b89f-d8d9446dc5ea.png)
@@ -228,7 +244,6 @@ ___
   |           | 카메라 위치 저장하기/불러오기 | 
   |           | 간섭 체크 발견하기 |
   
-
 <!--
 
 아이콘 모음: https://shields.io/
