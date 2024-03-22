@@ -12,7 +12,9 @@
 
   * homepage: [아키캐드 서드파티 개발자](https://gdldeveloper.modoo.at/)
 
-  * `C/C++` `Python` `GDL` `OpenCV` `MFC` `MATLAB` `JavaScript` `Java` `Visual Basic`
+  * programming: `C/C++` `Python` `GDL` `OpenCV` `MFC` `MATLAB` `JavaScript` `Java` `Visual Basic`
+
+  * work tools: `Jira`, `CodeBeamer`
 
 ___
 
