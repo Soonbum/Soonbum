@@ -146,11 +146,13 @@ ___
 
     - 참여 프로젝트
    
-      * 현대자동차 차세대 클러스터 개발 (2023.07 ~ ...): LG전자 파트너로 참여, HMI 파트 Function Owner 역할
+      * 현대자동차 차세대 클러스터 개발 (2023.07 ~ 2024.04): LG전자 파트너로 참여, HMI 파트 Function Owner 역할
       
         - 개발 환경: Docker 환경의 Ubuntu Linux, Yocto Project (임베디드 리눅스 생성툴), Repo and Git (코드 리뷰 및 버전 관리)
 
         - 협업 도구 사용: CodeBeamer, JIRA
+       
+        - 주요 업무: Customer Requirement Specification 문서 분석, Requirement Specification 문서화 작업, 해외 업체와의 협업, 이슈 관리, 사양서 오류 피드백
      
     - 사이드 프로젝트
    
