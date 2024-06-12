@@ -1,4 +1,4 @@
-![image](https://github.com/Soonbum/Soonbum/assets/16474083/0235e066-8999-4810-9efc-ba3c7a7b14ee)# Resume
+# Resume
 
 ### Bio
 
