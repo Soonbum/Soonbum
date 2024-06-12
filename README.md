@@ -1,4 +1,4 @@
-# Resume
+![image](https://github.com/Soonbum/Soonbum/assets/16474083/0235e066-8999-4810-9efc-ba3c7a7b14ee)# Resume
 
 ### Bio
 
@@ -165,6 +165,12 @@ ___
       * [QML(Qt Modeling Language) 레퍼런스 번역](https://github.com/Soonbum/QML)
      
       * [Qt for Python 레퍼런스 번역](https://github.com/Soonbum/Qt_for_Python)
+
+  * (주)캐디안
+
+    - 참여 프로젝트
+   
+      * CAD 솔루션: AI 객체 인지 기반 견적/정산용 적산 프로그램 개발
 
 ___
 
