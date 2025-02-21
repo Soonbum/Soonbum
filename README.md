@@ -4,7 +4,7 @@
 
   * Name: Soonbum Jeong (정순범)
 
-  * Birth: 1984
+  * Birth: 1984.03.04
 
   * e-mail: peacemaker84@gmail.com
 
