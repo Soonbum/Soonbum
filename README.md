@@ -12,7 +12,7 @@
 
   * homepage: [아키캐드 서드파티 개발자](https://gdldeveloper.modoo.at/)
 
-  * programming: `C/C++` `Python` `GDL` `OpenCV` `MFC` `MATLAB` `JavaScript` `Java` `Visual Basic`
+  * programming: `C/C++`, `C#`, `Python` `GDL` `OpenCV` `MFC` `MATLAB` `JavaScript` `Java` `Visual Basic`
 
   * work tools: `Jira`, `CodeBeamer`
 
@@ -178,7 +178,9 @@ ___
 
     - 참여 프로젝트
    
-      * 3D 프린터 소프트웨어: DM400 소프트웨어 리뉴얼 및 유지보수
+      * 3D 프린터 소프트웨어: DM400/X1 소프트웨어 유지보수, DM400 소프트웨어 리뉴얼 작업, 개발자 문서 작성, 매뉴얼 업데이트, 인스톨러 스크립트 작성
+     
+      * 후공정장비 소프트웨어: 기존 후공정장비 소프트웨어 분석
 
 ___
 
