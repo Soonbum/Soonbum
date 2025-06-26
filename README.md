@@ -10,8 +10,6 @@
 
   * blog: [Pilgrim's Progress](http://blog.naver.com/canvas84)
 
-  * homepage: [아키캐드 서드파티 개발자](https://gdldeveloper.modoo.at/) (조만간 없어질 예정)
-
   * programming: `C/C++`, `C#`, `Python` `GDL` `OpenCV` `MFC` `MATLAB` `JavaScript` `Java` `Visual Basic`
 
   * work tools: `Jira`, `CodeBeamer`
