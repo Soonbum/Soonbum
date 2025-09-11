@@ -284,6 +284,8 @@ ___
   |           | 간섭 체크 발견하기 |
 
   * (주)캐리마텍
+
+    - 통합 하향식 SW (DLP 하향식 3D 프린터 제어 프로그램)
     <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/d2673bc0-e689-4f86-b81a-04c7ad5437e5" />
 
     <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/72bf6d23-8730-443d-9e28-7f91fffdb5e1" />
@@ -294,6 +296,7 @@ ___
 
     <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/f4f11599-03c7-4083-86f0-9c2ee6202a17" />
 
+    - [라즈베리파이 보드를 이용한 UV 엔진 제어 모듈](https://github.com/Soonbum/Engine-Controller)
     <img width="570" height="538" alt="image" src="https://github.com/user-attachments/assets/d93ba0c8-6f5a-41eb-89c4-c8b621cfe830" />
 
 
