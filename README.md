@@ -10,7 +10,7 @@
 
   * blog: [Pilgrim's Progress](http://blog.naver.com/canvas84)
 
-  * programming: `C/C++`, `C#`, `Python` `GDL` `OpenCV` `MFC` `MATLAB` `JavaScript` `Java` `Visual Basic`
+  * programming: `C/C++`, `C#`, `Python` `GDL` `OpenCV` `MFC` `MATLAB` `JavaScript` `Java` `Visual Basic`, `Qt`, `WPF`
 
   * work tools: `Jira`, `CodeBeamer`
 
@@ -282,6 +282,24 @@ ___
   |           | 현재 평면도의 테이블폼에 버블 자동 배치 | 
   |           | 카메라 위치 저장하기/불러오기 | 
   |           | 간섭 체크 발견하기 |
+
+  * (주)캐리마텍
+    <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/d2673bc0-e689-4f86-b81a-04c7ad5437e5" />
+
+    <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/72bf6d23-8730-443d-9e28-7f91fffdb5e1" />
+
+    <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/3aa4a458-5970-49d2-8647-964544f43214" />
+
+    <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/5d766511-adde-482d-b285-0939da3dc66f" />
+
+    <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/f4f11599-03c7-4083-86f0-9c2ee6202a17" />
+
+    <img width="570" height="538" alt="image" src="https://github.com/user-attachments/assets/d93ba0c8-6f5a-41eb-89c4-c8b621cfe830" />
+
+
+
+
+
   
 <!--
 
