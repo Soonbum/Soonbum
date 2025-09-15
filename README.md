@@ -294,8 +294,6 @@ ___
 
     <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/5d766511-adde-482d-b285-0939da3dc66f" />
 
-    <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/f4f11599-03c7-4083-86f0-9c2ee6202a17" />
-
     - [라즈베리파이 보드를 이용한 UV 엔진 제어 모듈](https://github.com/Soonbum/Engine-Controller)
     <img width="570" height="538" alt="image" src="https://github.com/user-attachments/assets/d93ba0c8-6f5a-41eb-89c4-c8b621cfe830" />
 
