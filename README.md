@@ -190,7 +190,7 @@ ___
       
         - 기존 후공정장비 소프트웨어 분석
 
-      * 라즈베리파이를 통한 UV 엔진 제어 (Linux/Qt C++)
+      * [라즈베리파이를 통한 UV 엔진 제어 (Linux/Qt C++)](https://github.com/Soonbum/Engine-Controller)
      
         - 라즈베리파이 3 모델 B: USB, HDMI로 연결된 UV 엔진 제어: NVR, NQM+
        
