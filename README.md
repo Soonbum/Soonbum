@@ -10,7 +10,7 @@
 
   * blog: [Pilgrim's Progress](http://blog.naver.com/canvas84)
 
-  * programming: `C/C++`, `C#`, `Python` `GDL` `OpenCV` `MFC` `MATLAB` `JavaScript` `Java` `Visual Basic`, `Qt`, `WPF`
+  * programming: `C/C++`, `C#`, `Python` `GDL` `OpenCV` `MFC` `MATLAB` `JavaScript` `Java` `Visual Basic`, `Qt`, `WPF`, `Avalonia`
 
   * work tools: `Jira`, `CodeBeamer`
 
