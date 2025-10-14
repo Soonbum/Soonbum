@@ -10,7 +10,7 @@
 
   * blog: [Pilgrim's Progress](http://blog.naver.com/canvas84)
 
-  * programming: `C/C++`, `C#`, `Python` `GDL` `OpenCV` `MFC` `MATLAB` `JavaScript` `Java` `Visual Basic`, `Qt`, `WPF`, `Avalonia`
+  * programming: `C/C++`, `C#`, `Python` `GDL` `OpenCV` `MFC` `Qt` `WPF`, `Avalonia` `MATLAB` `JavaScript` `Java` `Visual Basic`
 
   * work tools: `Jira`, `CodeBeamer`
 
@@ -18,23 +18,23 @@ ___
 
 ### Career
 
-  * (주)캐리마텍 : 2024.11 ~ 현재
+  * (주)캐리마텍 : 2024.11 ~ 현재 (3D 프린터 제조업)
 
-  * (주)캐디안 [(주)인텔리코리아] : 2024.4 ~ 2024.10
+  * (주)캐디안 [(주)인텔리코리아] : 2024.4 ~ 2024.10 (CAD 서드파티/플러그인)
 
-  * (주)하이콘소프트 : 2023.7 ~ 2024.4
+  * (주)하이콘소프트 : 2023.7 ~ 2024.4 (자동차 클러스터 시스템 미들웨어)
 
-  * (주)스마트맥스 : 2020.7 ~ 2023.6
+  * (주)스마트맥스 : 2020.7 ~ 2023.6 (건설 IT, BIM)
 
-  * 경동이엔씨(주) : 2015.5 ~ 2020.5
+  * 경동이엔씨(주) : 2015.5 ~ 2020.5 (신재생에너지, 태양광 및 ESS)
 
-  * (주)두올테크 : 2012.3 ~ 2015.3
+  * (주)두올테크 : 2012.3 ~ 2015.3 (건설 IT, BIM)
 
-  * 광운대학교 대학원 전자공학과 3D디스플레이연구센터(3DRC) 석사 졸업 : 2010 ~ 2011
+  * 광운대학교 대학원 전자공학과 3D디스플레이연구센터(3DRC) 석사 졸업 : 2010 ~ 2011 (무안경 디스플레이, 영상처리)
 
   * 광운대학교 대학원 컴퓨터공학과 무선네트워크연구실 중퇴
 
-  * 광운대학교 컴퓨터소프트웨어공학과 학사 졸업 : 2003 ~ 2006
+  * 광운대학교 컴퓨터소프트웨어공학과 학사 졸업 : 2003 ~ 2006 (네트워크 부전공)
 
   * 서령고등학교 : 2000 ~ 2002
 
@@ -65,12 +65,16 @@ ___
     - 배경 분리, 색 분류, 웨이블릿, 변환, 패턴 인식을 통해 영상 내 연기를 인식함
 
     - MATLAB으로 시뮬레이션, Visual C++, MFC, OpenCV로 구현
+    
+    - 소스 링크: [리포지토리](https://github.com/Soonbum/SmokeDetection_2)
 
   * (Thesis) Performance analysis of the scale and perspective-variant reconstruction of 3-D object images in integral-imaging
 
     - 카메라 이동 없이 렌즈 어레이를 통한 다시점 영상을 소프트웨어로 합성함
 
     - MATLAB으로 시뮬레이션
+   
+    - 논문 링크: [학술연구정보서비스](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=0b75f7b9ee50fd95ffe0bdc3ef48d419)
 
 #### 2012-2013
 
@@ -124,7 +128,7 @@ ___
 
     - Energy Storage System 컨테이너 센서 네트워크 시스템 구축
 
-    - 적용기술: Anygate PowerScene 도구와 Python 언어를 이용하여 전력 모니터링
+    - 적용기술: Anygate PowerScene 도구와 Python 언어를 이용하여 전력 모니터링 SW 제작 (관련 자료는 비공개)
 
   * (주)스마트맥스
 
@@ -142,7 +146,7 @@ ___
 
     - 적용기술: ArchiCAD의 고유 언어 Geometric Description Language (GDL) 라이브러리 개발, C++을 이용한 ArchiCAD Add-on 개발
    
-    - [실적 리스트는 다음 링크를 보십시오.](https://docs.google.com/spreadsheets/d/1zPDd1fxaD2lw2fmbUhE90ki6Pt6SR1qpuOkhwD7jYc0/edit#gid=0)
+    - [실적 리스트](https://docs.google.com/spreadsheets/d/1zPDd1fxaD2lw2fmbUhE90ki6Pt6SR1qpuOkhwD7jYc0/edit#gid=0)
 
   * (주)하이콘소프트
 
@@ -156,7 +160,7 @@ ___
        
         - 주요 업무: Customer Requirement Specification 문서 분석, Requirement Specification 문서화 작업, 해외 업체와의 협업, 이슈 관리, 사양서 오류 피드백
      
-    - 사이드 프로젝트
+    - 자체 프로젝트
    
       * [JIRA 자동화 도구 개발](https://github.com/Soonbum/JIRA_automation_tool)
      
@@ -170,17 +174,19 @@ ___
 
     - 참여 프로젝트
    
-      * CAD 솔루션: CADian 플러그인 개발 (AI 객체 인지 기반 견적/정산용 적산 프로그램 개발) (C#)
+      * CAD 솔루션: CADian 플러그인 개발 (AI 객체 인지 기반 견적/정산용 적산 프로그램 개발) (C#) : 프로젝트 중도 하차
 
   * (주)캐리마텍
 
     - 참여 프로젝트
    
-      * 3D 프린터 소프트웨어 (C++/C#)
+      * 3D 프린터 소프트웨어 (C++/C#) (관련 자료는 비공개)
       
         - DM400/X1 소프트웨어 유지보수
 
         - DM400 소프트웨어 리뉴얼 작업 (+ 개발자 문서 작성)
+       
+        - X1 소프트웨어 리뉴얼 작업
        
         - 통합 하향식 SW 개발 (+ 개발자 문서 작성, Setup/User 매뉴얼 리뉴얼)
                 
@@ -201,7 +207,27 @@ ___
 
 ### Side projects
 
-  * [성경 뷰어](http://peacemaker84.dothome.co.kr/BibleViewer/index.html)(프론트엔드: JS, 백엔드: NodeJS + Express)
+  * [성경 뷰어](http://peacemaker84.dothome.co.kr/BibleViewer/index.html)(프론트엔드: JS, 백엔드: NodeJS + Express) : 현재는 서비스 중지
+
+  * [성경 뷰어](https://github.com/Soonbum/BibleViewerAvalonia)(C#, MVVM 패턴 적용, Avalonia 프레임워크)
+
+  * [C++ DLL to C# Marshalling 예제](https://github.com/Soonbum/CppCsharpMarshallingExample)(C++ CyUSBSerial.DLL --> C#)
+
+  * [시리얼 포트 에뮬레이터](https://github.com/Soonbum/SerialDeviceEmulator)(C#)
+
+  * [DM400 3D 프린터 시뮬레이터](https://github.com/Soonbum/Virtual_DM400)(C#)
+
+  * [XML 파일 Merger](https://github.com/Soonbum/SaveFileRecipeMerger)(C#)
+
+  * [차연산을 이용한 이미지 비교 프로그램](https://github.com/Soonbum/ImageDifferenceCalc)(C#, OpenCV)
+
+  * [구면 왜곡 보정 테스트 프로그램](https://github.com/Soonbum/AberrationDistortionExperiment)(C#, OpenCV)
+
+  * [트위터 미디어 파일 리네임 프로그램](https://github.com/Soonbum/renameTwitterPictures)(C#)
+
+  * [필터 + 엣지 검출 + 직선 검출 알고리즘 테스트 프로그램](https://github.com/Soonbum/OpenCVTest)(C#, OpenCV)
+
+  * [주간 보고서 작성 프로그램: Excel 파일 자동 생성](https://github.com/Soonbum/WeeklyReportForCadian)(C#)
 
 ___
 
@@ -216,6 +242,22 @@ ___
   * [아키캐드 애드온 개발문서 번역](http://peacemaker84.dothome.co.kr/)
 
   * [아키캐드 애드온 개발가이드](https://docs.google.com/document/d/1QkGUc4PjSOUt_8CU0CLBy9zOgTXiSHmsM8XoMb80Smk/edit?usp=sharing)
+
+  * [닷넷과 C#](https://github.com/Soonbum/CSharpDotNet)(.NET 8 / C# 12까지)
+
+  * [Avalonia 프레임워크 튜토리얼](https://github.com/Soonbum/AvaloniaTutorial)
+
+  * [CADian Managed .NET API (ObjectIRX)를 위한 Developer 가이드](https://github.com/Soonbum/ObjectIRX_ManagedDotNetGuide)
+
+  * [Yocto 프로젝트란 무엇인가?](https://github.com/Soonbum/What_is_Yocto_Project)
+
+  * [리눅스 셸 스크립트](https://github.com/Soonbum/UnixLinuxShellScript)
+
+  * [마크다운 문법](https://github.com/Soonbum/Markdown_Grammar)
+
+  * [깃헙 계정으로 블로그 만드는 방법](https://github.com/Soonbum/How-to-make-GitHub-blog)
+
+    - [Soonbum Jeong's 개발 아이디어 노트](https://soonbum.github.io/)
 
 ___
 
