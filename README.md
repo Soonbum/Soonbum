@@ -162,9 +162,9 @@ ___
      
     - 자체 프로젝트
    
-      * [JIRA 자동화 도구 개발](https://github.com/Soonbum/JIRA_automation_tool)
+      * [JIRA 자동화 도구 개발](https://github.com/Soonbum/JIRA_automation_tool): 단순한 JIRA 티켓 업데이트를 자동화하여 업무 효율화를 올리기 위해 개발함
      
-      * [PDF 병합 도구 개발](https://github.com/Soonbum/SimplePDFMerger)
+      * [PDF 병합 도구 개발](https://github.com/Soonbum/SimplePDFMerger): 여러 PDF 파일로 제공된 사양서를 통합하기 위해 팀내 요구를 받아들여 개발함
      
       * [QML(Qt Modeling Language) 레퍼런스 번역](https://github.com/Soonbum/QML)
      
@@ -209,25 +209,25 @@ ___
 
   * [성경 뷰어](http://peacemaker84.dothome.co.kr/BibleViewer/index.html)(프론트엔드: JS, 백엔드: NodeJS + Express) : 현재는 서비스 중지
 
-  * [성경 뷰어](https://github.com/Soonbum/BibleViewerAvalonia)(C#, MVVM 패턴 적용, Avalonia 프레임워크)
+  * [성경 뷰어](https://github.com/Soonbum/BibleViewerAvalonia)(C#, MVVM 패턴 적용, Avalonia 프레임워크) : MVVM 패턴 학습겸 JS 버전 성경 뷰어가 중지됨에 따라 개인적인 필요로 인해 만들었음
 
-  * [C++ DLL to C# Marshalling 예제](https://github.com/Soonbum/CppCsharpMarshallingExample)(C++ CyUSBSerial.DLL --> C#)
+  * [C++ DLL to C# Marshalling 예제](https://github.com/Soonbum/CppCsharpMarshallingExample)(C++ CyUSBSerial.DLL --> C#) : 사내 레거시 C++ 코드를 C#으로 컨버팅하기 위해 반드시 해결해야 할 문제, 추후 C++ to C# 코드 컨버팅에 도움이 될 만한 내용
 
-  * [시리얼 포트 에뮬레이터](https://github.com/Soonbum/SerialDeviceEmulator)(C#)
+  * [시리얼 포트 에뮬레이터](https://github.com/Soonbum/SerialDeviceEmulator)(C#): 시리얼 통신 장비가 없는 상태에서 SW를 테스트하기 위해 만듦
 
-  * [DM400 3D 프린터 시뮬레이터](https://github.com/Soonbum/Virtual_DM400)(C#)
+  * [DM400 3D 프린터 시뮬레이터](https://github.com/Soonbum/Virtual_DM400)(C#): (주)캐리마텍의 3D 프린터 DM400 모델을 시뮬레이트하기 위한 프로젝트, 장비 없이 SW를 테스트하기 위해 만들었으며 시리얼 포트 에뮬레이터에서 진보시킨 프로젝트
 
   * [XML 파일 Merger](https://github.com/Soonbum/SaveFileRecipeMerger)(C#)
 
-  * [차연산을 이용한 이미지 비교 프로그램](https://github.com/Soonbum/ImageDifferenceCalc)(C#, OpenCV)
+  * [차연산을 이용한 이미지 비교 프로그램](https://github.com/Soonbum/ImageDifferenceCalc)(C#, OpenCV): 이미지의 픽셀 하나라도 값이 완벽하게 동일한지 비교하기 위해 만든 프로그램
 
   * [구면 왜곡 보정 테스트 프로그램](https://github.com/Soonbum/AberrationDistortionExperiment)(C#, OpenCV)
 
-  * [트위터 미디어 파일 리네임 프로그램](https://github.com/Soonbum/renameTwitterPictures)(C#)
+  * [트위터 미디어 파일 리네임 프로그램](https://github.com/Soonbum/renameTwitterPictures)(C#): 트위터에서 다운로드한 다량의 이미지 파일들을 내가 원하는 대로 리네임하기 위해 개인적으로 만든 프로그램
 
   * [필터 + 엣지 검출 + 직선 검출 알고리즘 테스트 프로그램](https://github.com/Soonbum/OpenCVTest)(C#, OpenCV)
 
-  * [주간 보고서 작성 프로그램: Excel 파일 자동 생성](https://github.com/Soonbum/WeeklyReportForCadian)(C#)
+  * [주간 보고서 작성 프로그램: Excel 파일 자동 생성](https://github.com/Soonbum/WeeklyReportForCadian)(C#): 매주 작성하는 보고서 양식을 자동으로 생성하기 위해 만든 프로그램
 
 ___
 
