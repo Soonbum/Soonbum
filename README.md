@@ -180,7 +180,7 @@ ___
 
     - 참여 프로젝트
    
-      * 3D 프린터 소프트웨어 (C++/C#) (관련 자료는 비공개)
+      * 윈도우 기반 3D 프린터 소프트웨어 (C++/C#) (관련 자료는 비공개)
       
         - DM400/X1 소프트웨어 유지보수
 
@@ -193,6 +193,8 @@ ___
         - 통합 상향식 SW 개발 (+ 개발자 문서 작성) : 기존 X1 대응
                 
         - 인스톨러 스크립트 작성 (Inno Setup Script)
+
+        - 캐리마 허브(Carima Hub) 연동 프로그램 및 환경설정 파일 인스톨러/편집기 제작
      
       * 후공정장비 소프트웨어 (C++)
       
@@ -248,6 +250,8 @@ ___
   * [닷넷과 C#](https://github.com/Soonbum/CSharpDotNet)(.NET 8 / C# 12까지)
 
   * [Avalonia 프레임워크 튜토리얼](https://github.com/Soonbum/AvaloniaTutorial)
+
+  * [WPF 스터디](https://github.com/Soonbum/WPFStudy)
 
   * [CADian Managed .NET API (ObjectIRX)를 위한 Developer 가이드](https://github.com/Soonbum/ObjectIRX_ManagedDotNetGuide)
 
