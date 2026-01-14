@@ -205,6 +205,20 @@ ___
         - 라즈베리파이 3 모델 B: USB, HDMI로 연결된 UV 엔진 제어: NVR, NQM+
        
         - 소켓 통신을 통해 PC에서 라즈베리파이를 간접 제어
+
+      * [Anhua 엔진 컨트롤러](https://github.com/Soonbum/AnhuaEngineController)
+
+        - Anhua 엔진 제어 샘플 프로그램
+       
+        - 장비 연속 구동 테스트를 위해 개발함
+
+      * [치투박스(CTB) 파일로부터 슬라이스 이미지(PNG)를 추출하는 프로그램](https://github.com/Soonbum/ExtractPngFromChituboxFile)
+     
+        - 치투박스 파일로부터 슬라이스 이미지(PNG), 레이어 정보(XML), 썸네일 이미지를 추출하는 프로그램
+       
+        - 오픈소스 UVtools (C#) 활용
+       
+        - C# 버전으로 먼저 개발하고, Qt C++에서도 사용할 수 있도록 Bridge 클래스 구현함
         
 
 ___
