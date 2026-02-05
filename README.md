@@ -10,9 +10,9 @@
 
   * blog: [Pilgrim's Progress](http://blog.naver.com/canvas84)
 
-  * programming: `C/C++`, `C#`, `Python` `GDL` `OpenCV` `MFC` `Qt` `WPF`, `Avalonia` `MATLAB` `JavaScript` `Java` `Visual Basic`
+  * programming: `C#` `C/C++` `Python` `GDL` `OpenCV` `MFC` `Qt` `WPF`, `Avalonia`, `MATLAB` `JavaScript` `Java` `Visual Basic`
 
-  * work tools: `Jira`, `CodeBeamer`
+  * work tools: `Jira` `CodeBeamer`
 
 ___
 
@@ -184,13 +184,9 @@ ___
       
         - DM400/X1 소프트웨어 유지보수
 
-        - DM400 소프트웨어 리뉴얼 작업 (+ 개발자 문서 작성)
+        - DM400 소프트웨어 리뉴얼 작업 (통합 하향식), 개발자 문서/매뉴얼 작성
        
-        - X1 소프트웨어 리뉴얼 작업
-       
-        - 통합 하향식 SW 개발 (+ 개발자 문서 작성, Setup/User 매뉴얼 리뉴얼) : 기존 DM400 대응
-       
-        - 통합 상향식 SW 개발 (+ 개발자 문서 작성) : 기존 X1 대응
+        - X1 소프트웨어 리뉴얼 작업 (통합 상향식), 개발자 문서/매뉴얼 작성
                 
         - 인스톨러 스크립트 작성 (Inno Setup Script)
 
@@ -206,13 +202,13 @@ ___
        
         - 소켓 통신을 통해 PC에서 라즈베리파이를 간접 제어
 
-      * [Anhua 엔진 컨트롤러](https://github.com/Soonbum/AnhuaEngineController)
+      * [Anhua 엔진 컨트롤러 (C#)](https://github.com/Soonbum/AnhuaEngineController)
 
         - Anhua 엔진 제어 샘플 프로그램
        
         - 장비 연속 구동 테스트를 위해 개발함
 
-      * [치투박스(CTB) 파일로부터 슬라이스 이미지(PNG)를 추출하는 프로그램](https://github.com/Soonbum/ExtractPngFromChituboxFile)
+      * [치투박스(CTB) 파일로부터 슬라이스 이미지(PNG)를 추출하는 프로그램 (C#)](https://github.com/Soonbum/ExtractPngFromChituboxFile)
      
         - 치투박스 파일로부터 슬라이스 이미지(PNG), 레이어 정보(XML), 썸네일 이미지를 추출하는 프로그램
        
