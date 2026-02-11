@@ -215,6 +215,12 @@ ___
         - 오픈소스 UVtools (C#) 활용
        
         - C# 버전으로 먼저 개발하고, Qt C++에서도 사용할 수 있도록 Bridge 클래스 구현함
+       
+      * [Visitech2K LuxBeam LRS WQ 엔진 컨트롤러 (C#)](https://github.com/Soonbum/Visitech2K_LuxBeam-LRS-WQ_EngineController)
+     
+        - Visitech2K LuxBeam LRS WQ 엔진 제어 샘플 프로그램
+       
+        - 장비 연결 방법, 장비 제어 방법을 파악하기 위해 개발함
         
 
 ___
@@ -242,6 +248,8 @@ ___
   * [필터 + 엣지 검출 + 직선 검출 알고리즘 테스트 프로그램](https://github.com/Soonbum/OpenCVTest)(C#, OpenCV)
 
   * [주간 보고서 작성 프로그램: Excel 파일 자동 생성](https://github.com/Soonbum/WeeklyReportForCadian)(C#): 매주 작성하는 보고서 양식을 자동으로 생성하기 위해 만든 프로그램
+
+  * [OPC UA 샘플 서버/클라이언트 프로그램](https://github.com/Soonbum/OpcUaSampleGui)(C#)
 
 ___
 
