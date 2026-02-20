@@ -92,90 +92,6 @@ ___
 
 ### Participated projects
 
-  * (주)두올테크
-
-    - 아키캐드 GDL 라이브러리 개발
-    
-      * LH신사옥 건설 (2012.12 ~ 2013.03): 200여종 라이브러리 개발
-      
-      * 포스코건설 브라질 CSP 원정수처리설비 (2013.03 ~ 2013.06): 펌프,밸브 등 100여종 이상
-      
-      * 삼성 반도체 공장 MEP 라이브러리 개발 (2013.06 ~ 2013.08): 반도체 공장에서만 사용하는 특수 밸브 라이브러리 개발 (발주: 예스커뮤니케이션)
-      
-      * 한샘가구 GDL (2013.12 ~ 2014.03): 일본 측에 출시될 가구를 라이브러리로 미리 선보임
-      
-      * BIMSystems 용역 (2014.08 ~ 2014.10): 카운터, 창호, 문 라이브러리 개발로 KAJIMA 건설 용역 수주에 협조
-      
-      * 일본 KAJIMA건설 병원시설 (2014.03 ~ 2015.03): 일본 내 병원, 경찰서, 정부청사에 들어가는 건축 요소 라이브러리 개발
-      
-      * IKEA 천장 부착 라이브러리 (2014.12 ~ 2015.01): 매장 내 천장 부착 라이브러리 개발
-      
-      * SK하이닉스 반도체 공장 라이브러리 (2014.12 ~ 2015.03): LOD 400(상세) 수준의 반도체 공장 라이브러리 개발
-      
-      * GRAPHISOFT 호주 (2015.02 ~ 2015.03): 호주에서 사용되는 루프/월 패널을 디테일하게 표현하여 GRAPHISOFT 호주 지사의 라이브러리 영업에 도움을 줌
-
-    - 저술: GDL 레퍼런스 가이드 번역, GDL 강의자료 작성
-
-    - 강의: 건설기술교육원
-
-    - 적용기술: ArchiCAD의 고유 언어 Geometric Description Language (GDL) 라이브러리 개발
-
-  * 경동이엔씨(주)
-
-    - 발주업체: 한국전력, (주)효성, 효성중공업(주), 이터샘ENG, 삼지전자(주), (주)피엠그로우, (주)MTK방재시스템
-
-    - Energy Management System 구축: 한국전력 스마트그리드 사업 (부천지사, 경기북부지사), 한국전력 펌핑 인버터 실증사업, 가정용 ESS 실증사업 (인천지사)
-
-    - Energy Storage System 컨테이너 센서 네트워크 시스템 구축
-
-    - 적용기술: Anygate PowerScene 도구와 Python 언어를 이용하여 전력 모니터링 SW 제작 (관련 자료는 비공개)
-
-  * (주)스마트맥스
-
-    - 발주업체 및 현장
-    
-      * (주)소노인터내셔널: 김포대학교
-
-      * CJ대한통운: 고덕 알서포트, 제주 오설록
-
-    - 아키캐드 GDL 라이브러리 개발: 골조공사의 가설재
-
-    - 아키캐드 애드온 개발: [MaxBIM21](https://github.com/Soonbum/MaxBIM21)(C++)
-
-    - 그 외 도구: [레이어별 인쇄하기 매크로](https://github.com/Soonbum/VBA_for_Excel)(Visual Basic), [물량산출표 작성, PDF에 텍스트 붙이기](https://github.com/Soonbum/MaxBIM-app)(JS+Electron)
-
-    - 적용기술: ArchiCAD의 고유 언어 Geometric Description Language (GDL) 라이브러리 개발, C++을 이용한 ArchiCAD Add-on 개발
-   
-    - [실적 리스트](https://docs.google.com/spreadsheets/d/1zPDd1fxaD2lw2fmbUhE90ki6Pt6SR1qpuOkhwD7jYc0/edit#gid=0)
-
-  * (주)하이콘소프트
-
-    - 참여 프로젝트
-   
-      * 현대자동차 차세대 클러스터 개발 (2023.07 ~ 2024.04): LG전자 파트너, Role: HMI 파트 Function Owner
-      
-        - 개발 환경: Docker 환경의 Ubuntu Linux, Yocto Project (임베디드 리눅스 생성툴), Repo and Git (코드 리뷰 및 버전 관리)
-
-        - 협업 도구 사용: CodeBeamer, JIRA
-       
-        - 주요 업무: Customer Requirement Specification 문서 분석, Requirement Specification 문서화 작업, 해외 업체와의 협업, 이슈 관리, 사양서 오류 피드백
-     
-    - 자체 프로젝트
-   
-      * [JIRA 자동화 도구 개발](https://github.com/Soonbum/JIRA_automation_tool): 단순한 JIRA 티켓 업데이트를 자동화하여 업무 효율화를 올리기 위해 개발함
-     
-      * [PDF 병합 도구 개발](https://github.com/Soonbum/SimplePDFMerger): 여러 PDF 파일로 제공된 사양서를 통합하기 위해 팀내 요구를 받아들여 개발함
-     
-      * [QML(Qt Modeling Language) 레퍼런스 번역](https://github.com/Soonbum/QML)
-     
-      * [Qt for Python 레퍼런스 번역](https://github.com/Soonbum/Qt_for_Python)
-
-  * (주)캐디안
-
-    - 참여 프로젝트
-   
-      * CAD 솔루션: CADian 플러그인 개발 (AI 객체 인지 기반 견적/정산용 적산 프로그램 개발) (C#) : 프로젝트 중도 하차
-
   * (주)캐리마텍
 
     - 참여 프로젝트
@@ -221,7 +137,90 @@ ___
         - Visitech2K LuxBeam LRS WQ 엔진 제어 샘플 프로그램
        
         - 장비 연결 방법, 장비 제어 방법을 파악하기 위해 개발함
-        
+
+  * (주)캐디안
+
+    - 참여 프로젝트
+   
+      * CAD 솔루션: CADian 플러그인 개발 (AI 객체 인지 기반 견적/정산용 적산 프로그램 개발) (C#) : 프로젝트 중도 하차        
+
+  * (주)하이콘소프트
+
+    - 참여 프로젝트
+   
+      * 현대자동차 차세대 클러스터 개발 (2023.07 ~ 2024.04): LG전자 파트너, Role: HMI 파트 Function Owner
+      
+        - 개발 환경: Docker 환경의 Ubuntu Linux, Yocto Project (임베디드 리눅스 생성툴), Repo and Git (코드 리뷰 및 버전 관리)
+
+        - 협업 도구 사용: CodeBeamer, JIRA
+       
+        - 주요 업무: Customer Requirement Specification 문서 분석, Requirement Specification 문서화 작업, 해외 업체와의 협업, 이슈 관리, 사양서 오류 피드백
+     
+    - 자체 프로젝트
+   
+      * [JIRA 자동화 도구 개발](https://github.com/Soonbum/JIRA_automation_tool): 단순한 JIRA 티켓 업데이트를 자동화하여 업무 효율화를 올리기 위해 개발함
+     
+      * [PDF 병합 도구 개발](https://github.com/Soonbum/SimplePDFMerger): 여러 PDF 파일로 제공된 사양서를 통합하기 위해 팀내 요구를 받아들여 개발함
+     
+      * [QML(Qt Modeling Language) 레퍼런스 번역](https://github.com/Soonbum/QML)
+     
+      * [Qt for Python 레퍼런스 번역](https://github.com/Soonbum/Qt_for_Python)
+
+  * (주)스마트맥스
+
+    - 발주업체 및 현장
+    
+      * (주)소노인터내셔널: 김포대학교
+
+      * CJ대한통운: 고덕 알서포트, 제주 오설록
+
+    - 아키캐드 GDL 라이브러리 개발: 골조공사의 가설재
+
+    - 아키캐드 애드온 개발: [MaxBIM21](https://github.com/Soonbum/MaxBIM21)(C++)
+
+    - 그 외 도구: [레이어별 인쇄하기 매크로](https://github.com/Soonbum/VBA_for_Excel)(Visual Basic), [물량산출표 작성, PDF에 텍스트 붙이기](https://github.com/Soonbum/MaxBIM-app)(JS+Electron)
+
+    - 적용기술: ArchiCAD의 고유 언어 Geometric Description Language (GDL) 라이브러리 개발, C++을 이용한 ArchiCAD Add-on 개발
+   
+    - [실적 리스트](https://docs.google.com/spreadsheets/d/1zPDd1fxaD2lw2fmbUhE90ki6Pt6SR1qpuOkhwD7jYc0/edit#gid=0)
+
+  * 경동이엔씨(주)
+
+    - 발주업체: 한국전력, (주)효성, 효성중공업(주), 이터샘ENG, 삼지전자(주), (주)피엠그로우, (주)MTK방재시스템
+
+    - Energy Management System 구축: 한국전력 스마트그리드 사업 (부천지사, 경기북부지사), 한국전력 펌핑 인버터 실증사업, 가정용 ESS 실증사업 (인천지사)
+
+    - Energy Storage System 컨테이너 센서 네트워크 시스템 구축
+
+    - 적용기술: Anygate PowerScene 도구와 Python 언어를 이용하여 전력 모니터링 SW 제작 (관련 자료는 비공개)
+
+  * (주)두올테크
+
+    - 아키캐드 GDL 라이브러리 개발
+    
+      * LH신사옥 건설 (2012.12 ~ 2013.03): 200여종 라이브러리 개발
+      
+      * 포스코건설 브라질 CSP 원정수처리설비 (2013.03 ~ 2013.06): 펌프,밸브 등 100여종 이상
+      
+      * 삼성 반도체 공장 MEP 라이브러리 개발 (2013.06 ~ 2013.08): 반도체 공장에서만 사용하는 특수 밸브 라이브러리 개발 (발주: 예스커뮤니케이션)
+      
+      * 한샘가구 GDL (2013.12 ~ 2014.03): 일본 측에 출시될 가구를 라이브러리로 미리 선보임
+      
+      * BIMSystems 용역 (2014.08 ~ 2014.10): 카운터, 창호, 문 라이브러리 개발로 KAJIMA 건설 용역 수주에 협조
+      
+      * 일본 KAJIMA건설 병원시설 (2014.03 ~ 2015.03): 일본 내 병원, 경찰서, 정부청사에 들어가는 건축 요소 라이브러리 개발
+      
+      * IKEA 천장 부착 라이브러리 (2014.12 ~ 2015.01): 매장 내 천장 부착 라이브러리 개발
+      
+      * SK하이닉스 반도체 공장 라이브러리 (2014.12 ~ 2015.03): LOD 400(상세) 수준의 반도체 공장 라이브러리 개발
+      
+      * GRAPHISOFT 호주 (2015.02 ~ 2015.03): 호주에서 사용되는 루프/월 패널을 디테일하게 표현하여 GRAPHISOFT 호주 지사의 라이브러리 영업에 도움을 줌
+
+    - 저술: GDL 레퍼런스 가이드 번역, GDL 강의자료 작성
+
+    - 강의: 건설기술교육원
+
+    - 적용기술: ArchiCAD의 고유 언어 Geometric Description Language (GDL) 라이브러리 개발
 
 ___
 
@@ -267,6 +266,8 @@ ___
 
   * [닷넷과 C#](https://github.com/Soonbum/CSharpDotNet)(.NET 8 / C# 12까지)
 
+  * [어셈블리어 스터디](https://github.com/Soonbum/AssemblyLanguage)(Intel x64, Linux, NASM 기준)
+
   * [Avalonia 프레임워크 튜토리얼](https://github.com/Soonbum/AvaloniaTutorial)
 
   * [WPF 스터디](https://github.com/Soonbum/WPFStudy)
@@ -287,24 +288,19 @@ ___
 
 ### Making
 
-  * (주)두올테크
-    ![GDL 라이브러리 (두올테크)](https://user-images.githubusercontent.com/16474083/178893025-fe485d93-f3b3-4689-992e-7114c23eb360.png)
+  * (주)캐리마텍
 
-  * 경동이엔씨(주)
-    ![실시간 운영 현황](https://user-images.githubusercontent.com/16474083/178897558-d82b6b76-7f82-4c87-87e6-76e74c6bfa4c.png)
-    
-    ![층별 사용량 모니터](https://user-images.githubusercontent.com/16474083/178897565-2d8f0f08-905b-4cbe-827f-b6b96e9845a9.png)
-    
-    ![BMS 상세](https://user-images.githubusercontent.com/16474083/178897590-215f7b5a-48cd-443e-8810-608d81a5d061.png)
-    
-    ![동작모드 설정 - 자동모드](https://user-images.githubusercontent.com/16474083/178897616-6424c982-4f1d-4275-b6ee-6852bd37e1ce.png)
-    
-    ![분산전원 개별 제어](https://user-images.githubusercontent.com/16474083/178897629-72084094-f4c0-47dc-8325-4dd761fa8de1.png)
-    
-    ![분석 및 실적 - 일간 분석](https://user-images.githubusercontent.com/16474083/178897648-a2398cd1-e56d-495d-98a8-46d7a8dd9bf0.png)
-    
-    ![분석 및 실적 - 피크전력](https://user-images.githubusercontent.com/16474083/178897666-02099e0a-789a-4f74-893d-056c711125fa.png)
+    - 통합 하향식 SW (DLP 하향식 3D 프린터 제어 프로그램)
+    <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/d2673bc0-e689-4f86-b81a-04c7ad5437e5" />
 
+    <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/72bf6d23-8730-443d-9e28-7f91fffdb5e1" />
+
+    <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/3aa4a458-5970-49d2-8647-964544f43214" />
+
+    <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/5d766511-adde-482d-b285-0939da3dc66f" />
+
+    - [라즈베리파이 보드를 이용한 UV 엔진 제어 모듈](https://github.com/Soonbum/Engine-Controller)
+    <img width="570" height="538" alt="image" src="https://github.com/user-attachments/assets/d93ba0c8-6f5a-41eb-89c4-c8b621cfe830" />
 
   * (주)스마트맥스
     ![GDL 라이브러리 (스마트맥스)](https://user-images.githubusercontent.com/16474083/178897241-ac483cea-bb4c-4e27-9204-6ee7e47b3829.png)
@@ -349,21 +345,23 @@ ___
   |           | 카메라 위치 저장하기/불러오기 | 
   |           | 간섭 체크 발견하기 |
 
-  * (주)캐리마텍
+  * 경동이엔씨(주)
+    ![실시간 운영 현황](https://user-images.githubusercontent.com/16474083/178897558-d82b6b76-7f82-4c87-87e6-76e74c6bfa4c.png)
+    
+    ![층별 사용량 모니터](https://user-images.githubusercontent.com/16474083/178897565-2d8f0f08-905b-4cbe-827f-b6b96e9845a9.png)
+    
+    ![BMS 상세](https://user-images.githubusercontent.com/16474083/178897590-215f7b5a-48cd-443e-8810-608d81a5d061.png)
+    
+    ![동작모드 설정 - 자동모드](https://user-images.githubusercontent.com/16474083/178897616-6424c982-4f1d-4275-b6ee-6852bd37e1ce.png)
+    
+    ![분산전원 개별 제어](https://user-images.githubusercontent.com/16474083/178897629-72084094-f4c0-47dc-8325-4dd761fa8de1.png)
+    
+    ![분석 및 실적 - 일간 분석](https://user-images.githubusercontent.com/16474083/178897648-a2398cd1-e56d-495d-98a8-46d7a8dd9bf0.png)
+    
+    ![분석 및 실적 - 피크전력](https://user-images.githubusercontent.com/16474083/178897666-02099e0a-789a-4f74-893d-056c711125fa.png)
 
-    - 통합 하향식 SW (DLP 하향식 3D 프린터 제어 프로그램)
-    <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/d2673bc0-e689-4f86-b81a-04c7ad5437e5" />
-
-    <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/72bf6d23-8730-443d-9e28-7f91fffdb5e1" />
-
-    <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/3aa4a458-5970-49d2-8647-964544f43214" />
-
-    <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/5d766511-adde-482d-b285-0939da3dc66f" />
-
-    - [라즈베리파이 보드를 이용한 UV 엔진 제어 모듈](https://github.com/Soonbum/Engine-Controller)
-    <img width="570" height="538" alt="image" src="https://github.com/user-attachments/assets/d93ba0c8-6f5a-41eb-89c4-c8b621cfe830" />
-
-
+  * (주)두올테크
+    ![GDL 라이브러리 (두올테크)](https://user-images.githubusercontent.com/16474083/178893025-fe485d93-f3b3-4689-992e-7114c23eb360.png)
 
 
 
