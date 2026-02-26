@@ -46,15 +46,17 @@ ___
 
 ### Writings
 
-#### 2008-2009
+#### 2020-2021
 
-  ![mosa6eq5xS](https://user-images.githubusercontent.com/16474083/165700051-5395032e-3b1e-4ab1-be28-b2e77ff9738d.jpeg)
+  * (Translation) ArchiCAD Add-on API Documentation
 
-  * 구글 해킹 2nd Ed (Chapter 10), 에이콘 출판사 (2008.09 ~ 2008.11)
-  
-  * 구글링 시큐리티 (12p), Addison-Wesley (2009.10)
+  * (Lecture) ArchiCAD 애드온 개발 가이드
 
-  * 네트워크 워리어 (15p), O'REILLY (2009.09)
+#### 2012-2013
+
+  * (Translation) ArchiCAD GDL Reference Guide
+
+  * (Lecture) ArchiCAD GDL 강의 자료
 
 #### 2010-2011
 
@@ -76,17 +78,15 @@ ___
    
     - 논문 링크: [학술연구정보서비스](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=0b75f7b9ee50fd95ffe0bdc3ef48d419)
 
-#### 2012-2013
+#### 2008-2009
 
-  * (Translation) ArchiCAD GDL Reference Guide
+  ![mosa6eq5xS](https://user-images.githubusercontent.com/16474083/165700051-5395032e-3b1e-4ab1-be28-b2e77ff9738d.jpeg)
 
-  * (Lecture) ArchiCAD GDL 강의 자료
+  * 구글 해킹 2nd Ed (Chapter 10), 에이콘 출판사 (2008.09 ~ 2008.11)
+  
+  * 구글링 시큐리티 (12p), Addison-Wesley (2009.10)
 
-#### 2020-2021
-
-  * (Translation) ArchiCAD Add-on API Documentation
-
-  * (Lecture) ArchiCAD 애드온 개발 가이드
+  * 네트워크 워리어 (15p), O'REILLY (2009.09)
 
 ___
 
