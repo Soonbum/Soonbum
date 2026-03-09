@@ -267,6 +267,8 @@ ___
   * [닷넷과 C#](https://github.com/Soonbum/CSharpDotNet)(.NET 8 / C# 12까지)
 
   * [어셈블리어 스터디](https://github.com/Soonbum/AssemblyLanguage)(Intel x64, Linux, NASM 기준)
+  
+  * [아두이노 스터디](https://github.com/Soonbum/ArduinoStudy)
 
   * [Avalonia 프레임워크 튜토리얼](https://github.com/Soonbum/AvaloniaTutorial)
 
