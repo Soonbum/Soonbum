@@ -138,6 +138,12 @@ ___
        
         - 장비 연결 방법, 장비 제어 방법을 파악하기 위해 개발함
 
+      * [UV 엔진 서비스 (C#)](https://github.com/Soonbum/UVEngineService)
+     
+        - C# ASP.NET Core Web API를 이용해 만든 UV 엔진 서비스 (Windows, 빌드 x86)
+       
+        - ASP.NET Core Minimal API + Hosted Service: 파이썬의 FastAPI처럼 GET/POST 메서드를 이용하여 UV 엔진을 제어할 수 있음
+
   * (주)캐디안
 
     - 참여 프로젝트
