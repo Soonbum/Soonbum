@@ -272,6 +272,8 @@ ___
 
   * [닷넷과 C#](https://github.com/Soonbum/CSharpDotNet)(.NET 8 / C# 12까지)
 
+  * [컴퓨터 과학](https://github.com/Soonbum/ComputerScience)
+
   * [어셈블리어 스터디](https://github.com/Soonbum/AssemblyLanguage)(Intel x64, Linux, NASM 기준)
   
   * [아두이노 스터디](https://github.com/Soonbum/ArduinoStudy)
