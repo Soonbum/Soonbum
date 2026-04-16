@@ -10,7 +10,7 @@
 
   * blog: [Pilgrim's Progress](http://blog.naver.com/canvas84)
 
-  * programming: `C#` `C/C++` `Python` `GDL` `OpenCV` `MFC` `Qt` `WPF`, `Avalonia`, `MATLAB` `JavaScript` `Java` `Visual Basic`
+  * programming: `C#` `C/C++` `Python` `GDL` `OpenCV` `MFC` `Qt` `WPF` `Avalonia`, `MATLAB` `JavaScript` `Java` `Visual Basic`
 
   * work tools: `Jira` `CodeBeamer`
 
@@ -18,7 +18,7 @@ ___
 
 ### Career
 
-  * (주)캐리마텍 : 2024.11 ~ 현재 (3D 프린터 제어)
+  * (주)캐리마텍 : 2024.11 ~ 2026.04 (3D 프린터 제어)
 
   * (주)캐디안 [(주)인텔리코리아] : 2024.4 ~ 2024.10 (CAD 서드파티/플러그인)
 
@@ -94,16 +94,18 @@ ___
 
   * (주)캐리마텍
 
+    - 고객사: (주)티에네스 [DM400], 오스템임플란트(주) [DM400], CR Mining [DM400], Zirconlab [DM400], TETHON [X1], 현대자동차 [X1, DM400]
+
     - 참여 프로젝트
-   
+
       * 윈도우 기반 3D 프린터 소프트웨어 (C++/C#) (관련 자료는 비공개)
-      
+
         - DM400/X1 소프트웨어 유지보수
 
         - DM400 소프트웨어 리뉴얼 작업 (통합 하향식), 개발자 문서/매뉴얼 작성
-       
+
         - X1 소프트웨어 리뉴얼 작업 (통합 상향식), 개발자 문서/매뉴얼 작성
-                
+
         - 인스톨러 스크립트 작성 (Inno Setup Script)
 
         - 캐리마 허브(Carima Hub) 연동 프로그램 및 환경설정 파일 인스톨러/편집기 제작
@@ -189,6 +191,8 @@ ___
     - 적용기술: ArchiCAD의 고유 언어 Geometric Description Language (GDL) 라이브러리 개발, C++을 이용한 ArchiCAD Add-on 개발
    
     - [실적 리스트](https://docs.google.com/spreadsheets/d/1zPDd1fxaD2lw2fmbUhE90ki6Pt6SR1qpuOkhwD7jYc0/edit#gid=0)
+   
+    - 기타 업무: NAS 서버 구축, BIM 서버와 데이터 서버 분리 작업
 
   * 경동이엔씨(주)
 
@@ -199,6 +203,8 @@ ___
     - Energy Storage System 컨테이너 센서 네트워크 시스템 구축
 
     - 적용기술: Anygate PowerScene 도구와 Python 언어를 이용하여 전력 모니터링 SW 제작 (관련 자료는 비공개)
+   
+    - 기타 업무: NAS 서버 구축 및 파편화된 회사 자료 정리
 
   * (주)두올테크
 
