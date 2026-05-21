@@ -20,7 +20,7 @@ ___
 
   * (주)카티스 : 2026.05.18 ~ 현재 (공간인지 보안 플랫폼)
 
-  * (주)캐리마텍 : 2024.11 ~ 2026.05.11 (3D 프린터 제어)
+  * (주)캐리마텍 : 2024.11.05 ~ 2026.05.11 (3D 프린터 제어)
 
   * (주)캐디안 : 2024.04 ~ 2024.10 (CAD 서드파티/플러그인)
 
@@ -272,6 +272,8 @@ ___
 
   * [OPC UA 샘플 서버/클라이언트 프로그램](https://github.com/Soonbum/OpcUaSampleGui)(C#)
 
+  * [아인슈타인 가옥 퀴즈 생성 프로그램](https://github.com/Soonbum/MakeEinsteinRiddle)(C++, Dear ImGui GUI Framework)
+
 ___
 
 ### Shared materials
@@ -293,6 +295,8 @@ ___
   * [어셈블리어 스터디](https://github.com/Soonbum/AssemblyLanguage)(Intel x64, Linux, NASM 기준)
   
   * [아두이노 스터디](https://github.com/Soonbum/ArduinoStudy)
+
+  * [오픈소스 라이선스 요약](https://github.com/Soonbum/SummaryOpenSourceLicense)
 
   * [Avalonia 프레임워크 튜토리얼](https://github.com/Soonbum/AvaloniaTutorial)
 
