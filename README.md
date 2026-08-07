@@ -102,7 +102,7 @@ ___
      
         - 관련 기관: 인천광역시, 인천테크노파크, 인천보건환경연구원, (주)지큐티코리아, (주)카티스
        
-        - Backend: C# ASP.NET Core Minimal API, PostgreSQL 연동
+        - [Backend] C# ASP.NET Core Minimal API [DB] PostgreSQL [Frontend] React/Typescript
 
       * AxiCos 솔루션 리뉴얼 프로젝트 (2026.05 ~ ...)
 
