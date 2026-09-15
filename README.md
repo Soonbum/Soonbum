@@ -105,6 +105,8 @@ ___
         - [Backend] C# ASP.NET Core Minimal API [DB] PostgreSQL [Frontend] React/Typescript
 
       * AxiCos 솔루션 리뉴얼 프로젝트 (2026.05 ~ ...)
+     
+        - [Backend] C# ASP.NET [DB] Microsoft SQL Server [Frontend] React/Typescript
 
   * (주)캐리마텍
 
@@ -321,6 +323,12 @@ ___
 ___
 
 ### Making
+
+  * (주)카티스
+
+    - 마약류 감시 플랫폼 SW 개발
+
+    - AxiCos - (주)카티스 외곽 침입 탐지 시스템 (Perimeter Intrusion Detection System) 리뉴얼
 
   * (주)캐리마텍
 
