@@ -369,8 +369,16 @@ ___
   * (주)카티스
 
     - 마약류 감시 플랫폼 SW 개발
+    <img width="2061" height="1015" alt="image" src="https://github.com/user-attachments/assets/d4006288-ba8a-45f5-9422-a0a24f0567fc" />
+
+    <img width="2061" height="1015" alt="image" src="https://github.com/user-attachments/assets/56af5c1a-9635-4256-8e99-a0d27e655b21" />
+
+    <img width="2061" height="1015" alt="image" src="https://github.com/user-attachments/assets/056ba91b-5742-4dca-be2e-a790d8918b44" />
 
     - AxiCos - (주)카티스 외곽 침입 탐지 시스템 (Perimeter Intrusion Detection System) 리뉴얼
+    <img width="1183" height="711" alt="image" src="https://github.com/user-attachments/assets/72d822ea-1f18-4ce0-b0cd-894a31e5dadf" />
+
+    <img width="1187" height="719" alt="image" src="https://github.com/user-attachments/assets/a2d20daa-3afb-4e51-a51e-dfb2a0536e04" />
 
   * (주)캐리마텍
 
