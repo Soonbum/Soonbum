@@ -100,13 +100,55 @@ ___
     
       * 하수역학기반 마약류 검출 실증과제 (2026.05.15 ~ 2026.11.30)
      
+        - [Backend] C# ASP.NET Core Minimal API [DB] PostgreSQL [Frontend] React/Typescript
+       
+        - 마약 검출 및 탐지 관제 시스템
+
         - 관련 기관: 인천광역시, 인천테크노파크, 인천보건환경연구원, (주)지큐티코리아, (주)카티스
        
-        - [Backend] C# ASP.NET Core Minimal API [DB] PostgreSQL [Frontend] React/Typescript
+        - 기능
+       
+          * 관제형 대시보드, 지역별 분석, 기간별 분석 UI 제공
+         
+          * 작업자, 마약류, 감시지점, 장치를 원하는 대로 추가할 수 있음 (추후 감사를 대비하여 삭제 이력 보관)
+         
+          * 실시간 탐지 알림, 마약 농도에 따른 단계별 위험도 알림
 
       * AxiCos 솔루션 리뉴얼 프로젝트 (2026.05 ~ ...)
      
         - [Backend] C# ASP.NET [DB] Microsoft SQL Server [Frontend] React/Typescript
+       
+        - 경계 방호 보안 시스템 (Perimeter Intrusion Detection System)
+       
+        - 신규 적용 현장: SK하이닉스 청주 1~4 캠퍼스
+       
+        - 기능
+       
+          * DGU/IHS, RTU 장치를 통한 경보 데이터 수집
+         
+          * CCTV, 스피커 연동 기능: 경보 발생시 영상 팝업 및 경고 방송
+         
+          * 경보 지역을 계층적으로 관리하고 시각적으로 표출함
+         
+          * VMS 연동: 기존의 영상 보안 시스템과의 연계
+         
+          * 경보 스케줄링 및 선택적 활성화 기능
+         
+          * 입출력 연동: 특정 입력 접점을 다른 출력 접점으로 Redirect 하는 기능 (M:N 연동)
+         
+          * 리포트 관리 및 출력
+       
+        - 리뉴얼 사항
+       
+          * 장비 통신 서버, 로직 서버 최적화: 소켓 통신시 Non-blocking, lock-free 비동기 큐 적용, 반복된 메모리 할당 최소화하여 GC에 의한 Freeze 현상 최소화
+         
+          * 웹서버/클라이언트 변경: 기존 Java Spring Boot/Thymeleaf 템플릿 엔진 SSR 방식을 백엔드(C#)/프론트엔드(React) CSR 방식 모던 스타일로 전환
+         
+          * 이종 장비 연동 기능 통합: 별도 SW로 구현된 이종 장비 연동 기능을 로직 서버에 통합 (ADAM-6060, Axis Radar 등)
+         
+          * 현장 작업 일지 및 표준 행동 지침(SOP)
+         
+          * 미탐/오탐율 감소를 위한 학습/적응형 알고리즘 적용: (진행중)
 
   * (주)캐리마텍
 
