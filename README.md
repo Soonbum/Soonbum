@@ -108,7 +108,7 @@ ___
 
     - 참여 프로젝트
     
-      * 하수역학기반 마약류 검출 실증과제 (2026.05.15 ~ 2026.11.30)
+      * 양자기술 기반 하수중 마약류 감시 플랫폼 개발 (2026.05.15 ~ 2026.11.30)
      
         - [Backend] C# ASP.NET Core Minimal API [DB] PostgreSQL [Frontend] React/Typescript
        
@@ -124,7 +124,7 @@ ___
          
           * 실시간 탐지 알림, 마약 농도에 따른 단계별 위험도 알림
 
-      * AxiCos 솔루션 리뉴얼 프로젝트 (2026.05 ~ ...)
+      * AxiCos 기능 개선 개발 (2026.05 ~ ...)
      
         - [Backend] C# ASP.NET [DB] Microsoft SQL Server [Frontend] React/Typescript
        
